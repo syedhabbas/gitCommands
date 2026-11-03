@@ -7,7 +7,7 @@
 *.log
 
 # all hidden files
-*.
+.*
 
 # but .gitignore file will be added to GitHub so other team members can see .gitignore rule.
 !/.gitignore
