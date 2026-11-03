@@ -40,5 +40,5 @@ Practice Git
 # git branch -d lalpir | this will delete branch locally.
 # git push origin --delete lalpir | this will delete branch on GitHub.
 
-
+# edit this file directly on GitHub.
 
