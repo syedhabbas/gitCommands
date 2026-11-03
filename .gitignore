@@ -1,15 +1,15 @@
 # In this file we will mention files and folders, which will not be pushed to GitHub
 
-# temp folder, also folders and & files inside it.
+# ignore temp folder, also sub-folders & files inside it.
 /temp
 
-# all the log files
+# ignore all log files
 *.log
 
-# all hidden files
+# ignore all hidden files
 .*
 
-# but .gitignore file will be added to GitHub so other team members can see .gitignore rule.
+# Exception!, DO NOT ignore the .gitignore file itself so team members get these rules.
 !/.gitignore
 
 
